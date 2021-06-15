@@ -1,3 +1,3 @@
 # legacy-gps-receiver
 
-![Standard GPS Receiver Architecture]()
+![Standard GPS Receiver Architecture](gpsreceiver.png)
