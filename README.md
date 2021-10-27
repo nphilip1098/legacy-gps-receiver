@@ -1,5 +1,5 @@
 # legacy-gps-receiver
-A repository for understanding the GPS Signal Processing Pipeline. The ```.wav``` file is not be uploaded here due to size constraints.
+A repository for understanding the GPS Signal Processing Pipeline. The ```.wav``` file is not uploaded here due to size constraints.
 
 ![Standard GPS Receiver Architecture](https://github.com/nphilip1098/legacy-gps-receiver/blob/main/gpsreceiver.PNG)
 
